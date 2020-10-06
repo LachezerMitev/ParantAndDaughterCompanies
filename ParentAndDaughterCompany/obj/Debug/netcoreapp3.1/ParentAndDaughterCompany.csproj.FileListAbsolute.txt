@@ -1,0 +1,13 @@
+C:\Users\Lachezar Mitev\source\repos\ParentAndDaughterCompany\ParentAndDaughterCompany\bin\Debug\netcoreapp3.1\ParentAndDaughterCompany.exe
+C:\Users\Lachezar Mitev\source\repos\ParentAndDaughterCompany\ParentAndDaughterCompany\bin\Debug\netcoreapp3.1\ParentAndDaughterCompany.deps.json
+C:\Users\Lachezar Mitev\source\repos\ParentAndDaughterCompany\ParentAndDaughterCompany\bin\Debug\netcoreapp3.1\ParentAndDaughterCompany.runtimeconfig.json
+C:\Users\Lachezar Mitev\source\repos\ParentAndDaughterCompany\ParentAndDaughterCompany\bin\Debug\netcoreapp3.1\ParentAndDaughterCompany.runtimeconfig.dev.json
+C:\Users\Lachezar Mitev\source\repos\ParentAndDaughterCompany\ParentAndDaughterCompany\bin\Debug\netcoreapp3.1\ParentAndDaughterCompany.dll
+C:\Users\Lachezar Mitev\source\repos\ParentAndDaughterCompany\ParentAndDaughterCompany\bin\Debug\netcoreapp3.1\ParentAndDaughterCompany.pdb
+C:\Users\Lachezar Mitev\source\repos\ParentAndDaughterCompany\ParentAndDaughterCompany\obj\Debug\netcoreapp3.1\ParentAndDaughterCompany.csprojAssemblyReference.cache
+C:\Users\Lachezar Mitev\source\repos\ParentAndDaughterCompany\ParentAndDaughterCompany\obj\Debug\netcoreapp3.1\ParentAndDaughterCompany.AssemblyInfoInputs.cache
+C:\Users\Lachezar Mitev\source\repos\ParentAndDaughterCompany\ParentAndDaughterCompany\obj\Debug\netcoreapp3.1\ParentAndDaughterCompany.AssemblyInfo.cs
+C:\Users\Lachezar Mitev\source\repos\ParentAndDaughterCompany\ParentAndDaughterCompany\obj\Debug\netcoreapp3.1\ParentAndDaughterCompany.csproj.CoreCompileInputs.cache
+C:\Users\Lachezar Mitev\source\repos\ParentAndDaughterCompany\ParentAndDaughterCompany\obj\Debug\netcoreapp3.1\ParentAndDaughterCompany.dll
+C:\Users\Lachezar Mitev\source\repos\ParentAndDaughterCompany\ParentAndDaughterCompany\obj\Debug\netcoreapp3.1\ParentAndDaughterCompany.pdb
+C:\Users\Lachezar Mitev\source\repos\ParentAndDaughterCompany\ParentAndDaughterCompany\obj\Debug\netcoreapp3.1\ParentAndDaughterCompany.genruntimeconfig.cache
